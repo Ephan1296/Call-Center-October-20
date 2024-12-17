@@ -3,6 +3,8 @@
 ## Project Overview
 This project analyzes **October call center performance** data to uncover insights into call trends, agent performance, and customer service efficiency. The analysis focuses on key metrics such as total calls, average handling time, agent productivity, and customer satisfaction.
 
+## Screenshot
+Call Center Dashboarrd Oct 2020.png
 ## Data Description
 The dataset contains the following:
 - **Date**: Daily breakdown of call center activity.
