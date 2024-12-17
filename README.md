@@ -20,10 +20,4 @@ The dataset contains the following:
 - **Microsoft Excel**: For data organization, cleaning, and analysis.
 - **Pivot Tables & Charts**: Used to summarize key findings and visualize trends.
 
-## Project Structure
-```plaintext
-call-center-october-analysis/
-│-- Call_Center_October.xlsx   <- Source data file
-│-- README.md                  <- Project documentation
-│-- screenshots/
-│    └── call_volume_trends.png
+
